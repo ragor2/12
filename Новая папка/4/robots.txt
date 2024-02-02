@@ -1,3 +1,0 @@
-User-agent: *
-allow: *
-Sitemap: https://localhost/ragor/4/sitemap.xml
